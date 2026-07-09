@@ -1,0 +1,126 @@
+Order_ID,Date,Time,Table_No,Item_Name,Category,Price,Quantity,Total_Sales,Payment_Method,Customer_Rating
+1001,2026-06-01,12:30,4,Paneer Butter Masala,Main Course,280.0,1,280.0,Credit Card,4.5
+1002,2026-06-01,12:35,4,Garlic Naan,Breads,45.0,3,135.0,Credit Card,4.5
+1003,2026-06-01,13:00,2,Chicken Biryani,Main Course,320.0,2,640.0,UPI,4.0
+1004,2026-06-01,13:15,7,Masala Dosa,South Indian,120.0,1,120.0,Cash,3.5
+1005,2026-06-01,13:45,1,Mango Lassi,Beverages,80.0,2,160.0,UPI,5.0
+1006,2026-06-01,14:00,3,Veg Hakka Noodles,Chinese,190.0,1,190.0,Credit Card,4.0
+1007,2026-06-01,14:30,5,Tandoori Roti,Breads,20.0,5,100.0,Cash,4.0
+1008,2026-06-01,14:30,5,Dal Makhani,Main Course,220.0,1,220.0,Cash,4.5
+1009,2026-06-01,18:15,8,Cold Coffee,Beverages,110.0,2,220.0,UPI,5.0
+1010,2026-06-01,19:00,2,Mutton Rogan Josh,Main Course,450.0,1,450.0,Credit Card,4.8
+1011,2026-06-01,19:30,6,Margherita Pizza,Italian,250.0,1,250.0,UPI,3.8
+1012,2026-06-01,20:00,4,Chilli Chicken,Chinese,260.0,1,260.0,Cash,4.2
+1013,2026-06-02,12:15,1,Paneer Tikka,Starters,210.0,2,420.0,Credit Card,4.6
+1014,2026-06-02,12:40,3,Jeera Rice,Main Course,130.0,1,130.0,UPI,4.0
+1015,2026-06-02,13:10,3,Yellow Dal Tadka,Main Course,180.0,1,180.0,UPI,4.0
+1016,2026-06-02,13:50,9,Fish Curry,Main Course,380.0,1,380.0,Cash,4.7
+1017,2026-06-02,14:20,2,Sweet Fresh Lime Soda,Beverages,60.0,3,180.0,Credit Card,4.3
+1018,2026-06-02,18:45,5,Veg Spring Rolls,Starters,150.0,1,150.0,UPI,3.9
+1019,2026-06-02,19:10,7,Butter Chicken,Main Course,350.0,2,700.0,Credit Card,4.9
+1020,2026-06-02,19:15,7,Butter Naan,Breads,50.0,4,200.0,Credit Card,4.9
+1021,2026-06-02,20:05,4,Gulab Jamun,Desserts,70.0,2,140.0,Cash,5.0
+1022,2026-06-02,20:30,1,Brownie with Ice Cream,Desserts,150.0,1,150.0,UPI,4.8
+1023,2026-06-03,13:00,8,Veg Fried Rice,Chinese,180.0,1,180.0,Cash,4.1
+1024,2026-06-03,13:30,3,Chicken Tikka Masala,Main Course,340.0,1,340.0,Credit Card,4.4
+1025,2026-06-03,14:00,6,Virgin Mojito,Beverages,120.0,2,240.0,UPI,4.5
+1026,2026-06-10,21:34,9,Dal Makhani,Main Course,220.0,4,880.0,Cash,4.8
+1027,2026-06-06,15:29,9,Masala Dosa,South Indian,120.0,2,240.0,UPI,4.6
+1028,2026-07-02,12:08,9,Mango Lassi,Beverages,80.0,1,80.0,Cash,3.2
+1029,2026-06-04,22:43,5,Sweet Fresh Lime Soda,Beverages,60.0,5,300.0,Credit Card,4.6
+1030,2026-07-02,19:00,10,Veg Hakka Noodles,Chinese,190.0,3,570.0,UPI,4.5
+1031,2026-06-20,16:53,5,Sweet Fresh Lime Soda,Beverages,60.0,5,300.0,UPI,4.9
+1032,2026-06-10,14:03,6,Chicken Tikka Masala,Main Course,340.0,5,1700.0,UPI,4.3
+1033,2026-06-26,21:05,7,Chicken Biryani,Main Course,320.0,1,320.0,Cash,3.1
+1034,2026-06-26,13:51,2,Veg Spring Rolls,Starters,150.0,4,600.0,UPI,4.2
+1035,2026-06-17,15:46,2,Margherita Pizza,Italian,250.0,2,500.0,Credit Card,3.6
+1036,2026-06-16,19:12,5,Butter Naan,Breads,50.0,2,100.0,UPI,3.2
+1037,2026-06-09,20:52,1,Masala Dosa,South Indian,120.0,4,480.0,Cash,3.6
+1038,2026-07-04,20:15,7,Butter Chicken,Main Course,350.0,4,1400.0,Cash,4.2
+1039,2026-06-11,12:17,7,Tandoori Roti,Breads,20.0,5,100.0,Credit Card,3.4
+1040,2026-06-14,15:35,5,Cold Coffee,Beverages,110.0,2,220.0,Cash,5.0
+1041,2026-06-21,13:45,10,Chicken Biryani,Main Course,320.0,3,960.0,Credit Card,4.9
+1042,2026-06-21,15:04,5,Veg Hakka Noodles,Chinese,190.0,5,950.0,Credit Card,4.2
+1043,2026-06-25,22:04,5,Paneer Tikka,Starters,210.0,2,420.0,UPI,3.3
+1044,2026-06-28,18:13,2,Veg Hakka Noodles,Chinese,190.0,3,570.0,Cash,4.2
+1045,2026-06-30,18:49,2,Jeera Rice,Main Course,130.0,3,390.0,Credit Card,4.9
+1046,2026-06-15,18:02,4,Chicken Tikka Masala,Main Course,340.0,3,1020.0,UPI,3.5
+1047,2026-06-20,20:59,9,Brownie with Ice Cream,Desserts,150.0,4,600.0,Credit Card,4.6
+1048,2026-06-28,13:01,1,Dal Makhani,Main Course,220.0,1,220.0,Cash,4.7
+1049,2026-06-22,15:22,9,Garlic Naan,Breads,45.0,1,45.0,UPI,4.5
+1050,2026-06-20,14:51,7,Tandoori Roti,Breads,20.0,1,20.0,UPI,3.1
+1051,2026-07-01,17:18,3,Yellow Dal Tadka,Main Course,180.0,1,180.0,UPI,3.3
+1052,2026-06-29,12:36,1,Veg Spring Rolls,Starters,150.0,2,300.0,UPI,3.9
+1053,2026-06-04,21:57,9,Chicken Tikka Masala,Main Course,340.0,1,340.0,UPI,4.0
+1054,2026-06-26,21:02,10,Garlic Naan,Breads,45.0,4,180.0,Cash,3.5
+1055,2026-06-28,16:00,1,Dal Makhani,Main Course,220.0,2,440.0,UPI,4.5
+1056,2026-06-06,18:43,4,Yellow Dal Tadka,Main Course,180.0,2,360.0,Cash,4.2
+1057,2026-06-19,13:42,9,Paneer Butter Masala,Main Course,280.0,4,1120.0,Credit Card,3.5
+1058,2026-07-04,20:26,5,Paneer Tikka,Starters,210.0,3,630.0,Cash,3.4
+1059,2026-06-27,22:55,1,Brownie with Ice Cream,Desserts,150.0,5,750.0,Cash,3.2
+1060,2026-06-25,15:43,1,Masala Dosa,South Indian,120.0,3,360.0,UPI,3.4
+1061,2026-06-12,16:10,1,Veg Spring Rolls,Starters,150.0,3,450.0,Cash,4.9
+1062,2026-06-11,20:00,9,Mango Lassi,Beverages,80.0,5,400.0,Cash,3.8
+1063,2026-06-28,17:41,3,Chicken Tikka Masala,Main Course,340.0,3,1020.0,Credit Card,4.3
+1064,2026-06-07,16:48,8,Fish Curry,Main Course,380.0,2,760.0,Credit Card,5.0
+1065,2026-06-15,22:10,8,Cold Coffee,Beverages,110.0,2,220.0,Cash,4.7
+1066,2026-06-06,20:17,3,Chicken Biryani,Main Course,320.0,4,1280.0,Cash,4.2
+1067,2026-07-04,20:10,8,Virgin Mojito,Beverages,120.0,2,240.0,Credit Card,3.6
+1068,2026-07-02,20:28,7,Chicken Biryani,Main Course,320.0,1,320.0,Credit Card,3.6
+1069,2026-06-10,17:18,8,Garlic Naan,Breads,45.0,3,135.0,UPI,4.0
+1070,2026-06-27,12:45,5,Veg Fried Rice,Chinese,180.0,2,360.0,UPI,3.5
+1071,2026-06-16,17:14,5,Paneer Tikka,Starters,210.0,2,420.0,Credit Card,3.7
+1072,2026-06-10,22:33,7,Mutton Rogan Josh,Main Course,450.0,2,900.0,Credit Card,3.4
+1073,2026-06-29,13:54,1,Veg Fried Rice,Chinese,180.0,5,900.0,UPI,3.6
+1074,2026-06-21,15:34,6,Chilli Chicken,Chinese,260.0,4,1040.0,Credit Card,3.7
+1075,2026-06-09,22:00,4,Brownie with Ice Cream,Desserts,150.0,4,600.0,Cash,4.1
+1076,2026-06-29,20:43,5,Paneer Tikka,Starters,210.0,4,840.0,UPI,4.2
+1077,2026-06-24,15:31,6,Yellow Dal Tadka,Main Course,180.0,1,180.0,Cash,4.3
+1078,2026-06-28,20:30,1,Mango Lassi,Beverages,80.0,5,400.0,Credit Card,3.0
+1079,2026-06-11,18:56,5,Brownie with Ice Cream,Desserts,150.0,2,300.0,UPI,4.6
+1080,2026-07-04,17:17,3,Gulab Jamun,Desserts,70.0,5,350.0,UPI,3.1
+1081,2026-06-28,21:14,7,Brownie with Ice Cream,Desserts,150.0,3,450.0,UPI,4.5
+1082,2026-06-25,18:40,7,Tandoori Roti,Breads,20.0,5,100.0,Credit Card,3.5
+1083,2026-06-23,20:28,1,Paneer Butter Masala,Main Course,280.0,1,280.0,UPI,3.6
+1084,2026-06-08,20:28,9,Fish Curry,Main Course,380.0,1,380.0,Credit Card,4.7
+1085,2026-06-30,15:36,5,Yellow Dal Tadka,Main Course,180.0,1,180.0,UPI,3.1
+1086,2026-06-23,20:30,10,Butter Naan,Breads,50.0,5,250.0,Cash,3.5
+1087,2026-06-24,22:51,8,Mutton Rogan Josh,Main Course,450.0,3,1350.0,Cash,3.5
+1088,2026-07-02,22:07,7,Tandoori Roti,Breads,20.0,2,40.0,Cash,3.9
+1089,2026-06-08,21:47,4,Margherita Pizza,Italian,250.0,4,1000.0,Credit Card,4.6
+1090,2026-06-27,13:19,2,Dal Makhani,Main Course,220.0,5,1100.0,UPI,3.4
+1091,2026-07-03,12:37,8,Margherita Pizza,Italian,250.0,1,250.0,Cash,4.9
+1092,2026-06-29,13:21,5,Cold Coffee,Beverages,110.0,2,220.0,Cash,3.5
+1093,2026-06-16,13:20,5,Chilli Chicken,Chinese,260.0,2,520.0,Cash,3.7
+1094,2026-06-07,19:54,5,Fish Curry,Main Course,380.0,4,1520.0,Credit Card,3.3
+1095,2026-06-26,17:26,4,Cold Coffee,Beverages,110.0,5,550.0,UPI,4.6
+1096,2026-07-04,21:53,8,Virgin Mojito,Beverages,120.0,5,600.0,Cash,3.0
+1097,2026-07-03,19:45,8,Fish Curry,Main Course,380.0,2,760.0,UPI,3.4
+1098,2026-06-30,19:03,2,Brownie with Ice Cream,Desserts,150.0,1,150.0,Cash,4.0
+1099,2026-06-04,16:39,5,Gulab Jamun,Desserts,70.0,2,140.0,Credit Card,4.7
+1100,2026-07-04,13:34,6,Butter Chicken,Main Course,350.0,4,1400.0,Cash,3.8
+1101,2026-06-12,13:49,3,Chicken Biryani,Main Course,320.0,4,1280.0,UPI,4.9
+1102,2026-06-12,22:31,6,Chicken Biryani,Main Course,320.0,4,1280.0,Cash,3.3
+1103,2026-06-20,21:17,6,Garlic Naan,Breads,45.0,2,90.0,Cash,4.2
+1104,2026-06-09,16:53,1,Veg Hakka Noodles,Chinese,190.0,1,190.0,Cash,4.5
+1105,2026-06-26,19:42,9,Veg Spring Rolls,Starters,150.0,2,300.0,Cash,3.7
+1106,2026-06-11,20:11,7,Sweet Fresh Lime Soda,Beverages,60.0,2,120.0,Credit Card,4.6
+1107,2026-06-22,18:01,8,Yellow Dal Tadka,Main Course,180.0,3,540.0,Credit Card,4.9
+1108,2026-06-18,14:55,10,Butter Naan,Breads,50.0,3,150.0,Cash,4.7
+1109,2026-06-21,21:18,6,Brownie with Ice Cream,Desserts,150.0,5,750.0,UPI,4.9
+1110,2026-07-03,21:25,9,Sweet Fresh Lime Soda,Beverages,60.0,5,300.0,Credit Card,3.7
+1111,2026-06-28,16:37,6,Chilli Chicken,Chinese,260.0,2,520.0,Credit Card,3.1
+1112,2026-06-10,22:35,10,Virgin Mojito,Beverages,120.0,3,360.0,UPI,4.7
+1113,2026-06-07,22:23,3,Masala Dosa,South Indian,120.0,3,360.0,Cash,3.7
+1114,2026-06-10,16:05,10,Garlic Naan,Breads,45.0,3,135.0,Cash,4.9
+1115,2026-06-07,17:39,3,Chicken Tikka Masala,Main Course,340.0,3,1020.0,UPI,4.7
+1116,2026-06-18,12:08,3,Cold Coffee,Beverages,110.0,5,550.0,Credit Card,5.0
+1117,2026-06-26,17:50,1,Virgin Mojito,Beverages,120.0,2,240.0,Credit Card,4.6
+1118,2026-07-04,17:21,8,Veg Spring Rolls,Starters,150.0,2,300.0,Cash,4.9
+1119,2026-06-20,22:06,9,Veg Hakka Noodles,Chinese,190.0,1,190.0,UPI,3.0
+1120,2026-06-30,20:12,3,Paneer Butter Masala,Main Course,280.0,3,840.0,UPI,4.3
+1121,2026-07-03,17:00,3,Jeera Rice,Main Course,130.0,1,130.0,Credit Card,3.6
+1122,2026-06-24,14:29,1,Chicken Tikka Masala,Main Course,340.0,2,680.0,Credit Card,3.2
+1123,2026-06-18,13:44,3,Brownie with Ice Cream,Desserts,150.0,2,300.0,Cash,4.1
+1124,2026-06-22,21:55,1,Garlic Naan,Breads,45.0,3,135.0,Credit Card,3.4
+1125,2026-06-04,13:10,4,Jeera Rice,Main Course,130.0,3,390.0,Credit Card,3.2

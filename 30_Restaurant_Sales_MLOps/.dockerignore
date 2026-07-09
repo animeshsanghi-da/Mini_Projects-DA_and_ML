@@ -1,0 +1,14 @@
+# Python environment
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Git
+.git
+.gitignore
+
+# System/Misc
+.DS_Store
+.env
+.ipynb_checkpoints

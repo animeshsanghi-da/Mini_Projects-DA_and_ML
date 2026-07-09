@@ -1,0 +1,33 @@
+DEPLOYMENT GUIDE: ML MODEL TO CLOUD (AWS/GCP)
+==============================================
+
+This guide covers the deployment of a containerized ML/Data application.
+
+1. PREREQUISITES
+   - Docker installed and running locally.
+   - Cloud CLI (gcloud or aws) authenticated and configured.
+   - A `Dockerfile` in your root directory (must include requirements.txt, 
+     Python version, and command to run app).
+
+2. CONTAINERIZATION (LOCAL)
+   - Test your image locally:
+     docker build -t ml-app .
+     docker run -p 8080:8080 ml-app
+   - Ensure the app is accessible at http://localhost:8080
+
+3. DEPLOYMENT STEPS
+   - Authentication:
+     gcloud auth login
+     gcloud config set project [YOUR_PROJECT_ID]
+   
+   - Automated Trigger (via cloud_config.yaml):
+     gcloud builds submit --config cloud_config.yaml .
+
+   - Manual Verification:
+     Check the Cloud Console (Cloud Run or ECS) to verify the service status.
+     Ensure environment variables (API Keys, Database URLs) are injected 
+     via Secrets Manager, not hardcoded.
+
+4. POST-DEPLOYMENT
+   - Monitor logs using `gcloud logging read "resource.type=cloud_run_revision"`
+   - Set up alerts for high error rates or latency spikes.

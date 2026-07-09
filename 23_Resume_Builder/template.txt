@@ -1,0 +1,33 @@
+============================================================
+[FULL NAME]
+[Email Address] | [Phone Number] | [City, State] |
+[LinkedIn Profile URL]
+============================================================
+
+PROFESSIONAL SUMMARY
+------------------------------------------------------------
+[Write a 2-3 sentence summary highlighting your years of experience, 
+key competencies, and primary career objectives. Focus on what you 
+bring to the table for potential employers.]
+
+EXPERIENCE
+------------------------------------------------------------
+[Job Title] | [Company Name] | [Location] | [Start Date] – [End Date]
+- [Use an action verb] + [task] + [result/metric].
+- [Example: Developed a sales dashboard that increased efficiency by 20%.]
+- [Key accomplishment or contribution to business goals.]
+
+[Job Title] | [Company Name] | [Location] | [Start Date] – [End Date]
+- [Use an action verb] + [task] + [result/metric].
+
+SKILLS
+------------------------------------------------------------
+- Technical Skills: [Skill 1, Skill 2, Skill 3, Skill 4]
+- Tools & Technologies: [Tool 1, Tool 2, Tool 3]
+- Soft Skills: [Skill 1, Skill 2]
+
+EDUCATION
+------------------------------------------------------------
+[Degree Name] | [University/Institution Name] | [Graduation Year]
+
+============================================================

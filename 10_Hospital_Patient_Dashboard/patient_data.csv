@@ -1,0 +1,111 @@
+Patient_ID,Age,Gender,Department,Admission_Date,Discharge_Date,Diagnosis,Wait_Time_Minutes,Treatment_Cost
+P001,45,Female,Cardiology,2026-01-05,2026-01-10,Hypertension,30,1500
+P002,32,Male,Neurology,2026-01-06,2026-01-12,Migraine,45,2200
+P003,55,Female,Orthopedics,2026-01-07,2026-01-15,Fracture,60,3500
+P004,28,Male,General,2026-01-08,2026-01-09,Fever,15,500
+P005,67,Female,Cardiology,2026-01-09,2026-01-18,Arrhythmia,50,4000
+P006,40,Male,Neurology,2026-01-10,2026-01-14,Insomnia,35,1800
+P007,52,Female,Orthopedics,2026-01-11,2026-01-20,Arthritis,55,2800
+P008,35,Male,General,2026-01-12,2026-01-13,Flu,20,600
+P009,48,Female,Cardiology,2026-01-13,2026-01-19,Angina,40,3200
+P010,30,Male,Orthopedics,2026-01-14,2026-01-16,Sprain,25,1200
+P011,37,Female,Neurology,2026-04-18,2026-05-01,Migraine,45,4129
+P012,24,Female,Orthopedics,2026-03-01,2026-03-13,Torn Ligament,52,2330
+P013,43,Female,Orthopedics,2026-01-24,2026-01-30,Arthritis,33,3786
+P014,62,Male,Cardiology,2026-03-31,2026-04-13,Angina,103,4784
+P015,48,Female,General,2026-03-21,2026-03-29,Fever,64,2326
+P016,29,Male,Cardiology,2026-03-24,2026-04-05,Arrhythmia,12,2619
+P017,54,Female,Orthopedics,2026-04-23,2026-05-06,Fracture,118,1056
+P018,23,Male,Orthopedics,2026-01-26,2026-02-05,Arthritis,13,2060
+P019,41,Male,Cardiology,2026-03-06,2026-03-13,Heart Failure,105,1635
+P020,46,Male,Cardiology,2026-03-14,2026-03-16,Heart Failure,73,4100
+P021,70,Female,General,2026-04-17,2026-04-23,Cold,51,4029
+P022,70,Male,Neurology,2026-04-01,2026-04-13,Stroke,106,2870
+P023,55,Male,General,2026-02-01,2026-02-14,Fever,88,3430
+P024,90,Female,General,2026-03-02,2026-03-15,Flu,101,1079
+P025,68,Male,General,2026-03-23,2026-03-29,Fever,92,4831
+P026,59,Female,General,2026-02-13,2026-02-23,Cold,19,2743
+P027,72,Male,Cardiology,2026-02-26,2026-02-27,Arrhythmia,78,4424
+P028,90,Female,General,2026-02-03,2026-02-07,Cold,105,2007
+P029,21,Male,Orthopedics,2026-02-10,2026-02-13,Fracture,34,506
+P030,74,Female,General,2026-01-29,2026-02-05,Flu,32,2968
+P031,55,Male,Orthopedics,2026-03-24,2026-03-29,Fracture,12,866
+P032,48,Female,Orthopedics,2026-01-18,2026-01-20,Arthritis,74,1908
+P033,75,Male,Cardiology,2026-01-17,2026-01-29,Angina,57,2556
+P034,63,Male,Cardiology,2026-01-27,2026-01-29,Arrhythmia,30,4269
+P035,51,Male,Orthopedics,2026-04-20,2026-05-04,Sprain,64,3195
+P036,45,Male,Neurology,2026-04-07,2026-04-16,Stroke,87,1070
+P037,81,Female,Neurology,2026-01-30,2026-02-11,Stroke,50,3694
+P038,39,Female,General,2026-02-07,2026-02-17,Flu,116,1053
+P039,73,Male,General,2026-03-04,2026-03-11,Flu,16,4890
+P040,84,Male,Neurology,2026-03-11,2026-03-24,Stroke,88,1024
+P041,64,Female,Orthopedics,2026-04-21,2026-04-24,Sprain,90,4440
+P042,84,Male,General,2026-01-23,2026-02-01,Fever,61,2939
+P043,38,Male,Neurology,2026-03-26,2026-04-04,Stroke,76,4006
+P044,52,Female,Cardiology,2026-01-19,2026-01-21,Heart Failure,95,4919
+P045,60,Male,Orthopedics,2026-03-06,2026-03-10,Sprain,63,804
+P046,71,Male,Orthopedics,2026-02-25,2026-03-03,Arthritis,103,2708
+P047,85,Male,Orthopedics,2026-02-25,2026-02-27,Sprain,105,2037
+P048,81,Male,Orthopedics,2026-04-07,2026-04-11,Fracture,37,3215
+P049,62,Male,Neurology,2026-04-21,2026-05-01,Epilepsy,106,979
+P050,55,Male,General,2026-01-21,2026-01-31,Cold,97,2568
+P051,84,Female,Orthopedics,2026-01-30,2026-01-31,Arthritis,58,622
+P052,52,Male,Neurology,2026-03-21,2026-03-30,Stroke,50,2608
+P053,54,Female,Neurology,2026-03-14,2026-03-16,Stroke,18,4404
+P054,24,Female,Cardiology,2026-02-18,2026-02-25,Heart Failure,44,3050
+P055,26,Female,Neurology,2026-03-16,2026-03-31,Migraine,27,2193
+P056,80,Male,Cardiology,2026-01-17,2026-01-23,Arrhythmia,13,2757
+P057,48,Female,Cardiology,2026-03-19,2026-03-23,Angina,90,3569
+P058,35,Male,Cardiology,2026-03-24,2026-04-02,Angina,16,3341
+P059,51,Female,Orthopedics,2026-04-16,2026-04-28,Arthritis,94,2843
+P060,36,Male,General,2026-03-19,2026-04-01,Infection,34,3053
+P061,53,Male,Orthopedics,2026-03-27,2026-03-29,Sprain,73,3618
+P062,75,Female,General,2026-03-14,2026-03-19,Flu,39,1966
+P063,20,Female,Orthopedics,2026-03-03,2026-03-17,Fracture,34,1947
+P064,47,Male,Cardiology,2026-03-05,2026-03-15,Heart Failure,52,1251
+P065,29,Female,Orthopedics,2026-02-27,2026-02-28,Fracture,98,968
+P066,78,Female,Neurology,2026-03-14,2026-03-27,Epilepsy,120,790
+P067,61,Male,Cardiology,2026-02-21,2026-03-08,Angina,29,714
+P068,23,Male,General,2026-02-11,2026-02-24,Fever,94,3115
+P069,51,Male,Orthopedics,2026-01-29,2026-02-12,Arthritis,55,3945
+P070,30,Female,Cardiology,2026-01-17,2026-02-01,Hypertension,68,3926
+P071,36,Female,Neurology,2026-01-30,2026-01-31,Insomnia,92,3354
+P072,36,Female,Neurology,2026-03-22,2026-04-06,Insomnia,26,1256
+P073,59,Male,Orthopedics,2026-04-09,2026-04-14,Fracture,64,2419
+P074,45,Male,Orthopedics,2026-01-23,2026-02-03,Fracture,97,4318
+P075,55,Male,General,2026-03-24,2026-03-26,Infection,44,3406
+P076,85,Male,General,2026-01-30,2026-02-08,Infection,91,2275
+P077,81,Male,General,2026-02-16,2026-02-19,Cold,35,3923
+P078,38,Female,Neurology,2026-02-28,2026-03-09,Epilepsy,71,4222
+P079,76,Female,General,2026-03-16,2026-03-30,Infection,47,2459
+P080,31,Male,Orthopedics,2026-01-17,2026-01-27,Sprain,76,1923
+P081,42,Male,Neurology,2026-02-09,2026-02-17,Migraine,109,2601
+P082,61,Female,Orthopedics,2026-02-05,2026-02-09,Torn Ligament,48,2117
+P083,56,Female,Cardiology,2026-03-21,2026-03-24,Heart Failure,11,2872
+P084,68,Female,Orthopedics,2026-03-13,2026-03-21,Arthritis,114,2395
+P085,40,Male,Cardiology,2026-03-18,2026-04-01,Angina,83,3194
+P086,70,Female,Orthopedics,2026-02-01,2026-02-11,Sprain,110,1744
+P087,38,Female,General,2026-03-25,2026-04-08,Cold,96,2592
+P088,24,Female,General,2026-01-27,2026-02-10,Fever,69,4873
+P089,82,Male,Neurology,2026-01-22,2026-01-29,Insomnia,12,3725
+P090,41,Female,Cardiology,2026-04-20,2026-04-22,Arrhythmia,102,4994
+P091,22,Female,Orthopedics,2026-04-19,2026-04-20,Arthritis,18,3602
+P092,83,Female,General,2026-02-04,2026-02-05,Flu,73,1731
+P093,18,Male,Neurology,2026-03-30,2026-04-05,Insomnia,23,2255
+P094,48,Female,Neurology,2026-02-25,2026-03-11,Insomnia,113,4407
+P095,41,Male,General,2026-01-23,2026-02-02,Infection,56,702
+P096,30,Female,General,2026-03-10,2026-03-12,Flu,32,2950
+P097,56,Female,General,2026-03-31,2026-04-03,Fever,74,3700
+P098,85,Male,Orthopedics,2026-02-02,2026-02-12,Torn Ligament,23,1132
+P099,34,Male,General,2026-03-13,2026-03-23,Infection,52,2937
+P100,30,Male,Cardiology,2026-03-17,2026-03-27,Heart Failure,60,3634
+P101,88,Female,General,2026-01-22,2026-02-06,Flu,37,3907
+P102,79,Female,Neurology,2026-04-24,2026-04-29,Stroke,61,4585
+P103,39,Male,General,2026-02-10,2026-02-14,Infection,96,3836
+P104,79,Male,Neurology,2026-01-18,2026-01-24,Stroke,34,1382
+P105,54,Male,Neurology,2026-02-26,2026-03-06,Migraine,57,4924
+P106,51,Male,Orthopedics,2026-03-30,2026-04-14,Torn Ligament,58,1651
+P107,47,Female,Neurology,2026-02-16,2026-02-28,Epilepsy,116,4756
+P108,36,Male,Cardiology,2026-04-18,2026-04-28,Hypertension,26,687
+P109,89,Female,Neurology,2026-03-23,2026-04-05,Stroke,37,3156
+P110,27,Female,Cardiology,2026-03-03,2026-03-12,Heart Failure,42,1380

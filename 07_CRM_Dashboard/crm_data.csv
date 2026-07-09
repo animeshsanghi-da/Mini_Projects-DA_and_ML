@@ -1,0 +1,11 @@
+customer_id,name,email,signup_date,last_contact_date,status,lead_source,region,annual_revenue,deal_value,support_tickets
+101,John Doe,john.doe@example.com,2025-01-15,2026-05-20,Active,Email,North,50000,12000,2
+102,Jane Smith,jane.s@example.com,2025-02-10,2026-06-15,Churned,Social Media,South,35000,5000,8
+103,Acme Corp,contact@acme.com,2025-03-05,2026-06-22,Active,Referral,East,120000,45000,0
+104,Global Tech,sales@global.com,2025-05-12,2026-05-10,Active,Direct,West,95000,22000,1
+105,Apex Services,info@apex.com,2025-06-20,2026-06-18,Pending,Social Media,North,42000,8500,4
+106,Beta Solutions,beta@solutions.com,2025-08-01,2026-06-12,Active,Email,South,60000,15000,3
+107,Delta Ltd,support@delta.com,2025-09-15,2026-04-30,Churned,Referral,East,28000,3000,10
+108,Echo Systems,contact@echo.com,2025-11-10,2026-06-24,Active,Direct,West,75000,18000,2
+109,Falcon Inc,hello@falcon.com,2026-01-05,2026-06-20,Active,Email,North,55000,13500,1
+110,Gamma Corp,info@gamma.com,2026-02-14,2026-06-25,Active,Social Media,South,48000,9000,0

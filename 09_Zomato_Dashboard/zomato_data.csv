@@ -1,0 +1,121 @@
+order_id,restaurant_name,cuisine,order_date,order_amount,delivery_time_min,rating,delivery_city
+1001,Spice Hut,Indian,2026-06-01,450,35,4.2,Mumbai
+1002,Burger King,Fast Food,2026-06-01,280,25,3.8,Delhi
+1003,Pizza Palace,Italian,2026-06-02,800,45,4.5,Mumbai
+1004,Spice Hut,Indian,2026-06-02,320,30,4.0,Mumbai
+1005,Sushi House,Japanese,2026-06-03,1200,50,4.8,Bangalore
+1006,Burger King,Fast Food,2026-06-03,150,20,3.5,Delhi
+1007,The Pasta Bowl,Italian,2026-06-04,650,40,4.3,Bangalore
+1008,Spice Hut,Indian,2026-06-04,500,35,4.1,Mumbai
+1009,Healthy Bites,Salads,2026-06-05,300,28,4.6,Delhi
+1010,Sushi House,Japanese,2026-06-05,950,45,4.7,Bangalore
+1011,Pizza Palace,Italian,2026-06-06,750,40,4.4,Mumbai
+1012,Burger King,Fast Food,2026-06-06,400,25,3.9,Delhi
+1013,Healthy Bites,Salads,2026-06-07,350,30,4.5,Delhi
+1014,The Pasta Bowl,Italian,2026-06-07,550,35,4.2,Bangalore
+1015,Spice Hut,Indian,2026-06-08,600,40,4.3,Mumbai
+1016,Sushi House,Japanese,2026-06-08,1100,50,4.9,Bangalore
+1017,Burger King,Fast Food,2026-06-09,200,22,3.6,Delhi
+1018,The Pasta Bowl,Italian,2026-06-09,700,42,4.4,Bangalore
+1019,Healthy Bites,Salads,2026-06-10,400,25,4.7,Delhi
+1020,Pizza Palace,Italian,2026-06-10,900,48,4.6,Mumbai
+1021,Burger King,Fast Food,2026-06-22,373,27,4.0,Delhi
+1022,Burger King,Fast Food,2026-06-15,459,33,4.2,Delhi
+1023,Pizza Palace,Italian,2026-06-13,684,38,4.6,Mumbai
+1024,Pizza Palace,Italian,2026-06-11,831,38,4.5,Mumbai
+1025,The Pasta Bowl,Italian,2026-06-23,677,47,4.2,Bangalore
+1026,Sushi House,Japanese,2026-06-24,1170,59,4.8,Bangalore
+1027,Spice Hut,Indian,2026-06-19,428,38,4.0,Mumbai
+1028,Sushi House,Japanese,2026-06-18,1413,48,4.7,Bangalore
+1029,Sushi House,Japanese,2026-06-30,1116,50,5.0,Bangalore
+1030,The Pasta Bowl,Italian,2026-06-26,552,47,4.2,Bangalore
+1031,Pizza Palace,Italian,2026-06-25,724,47,4.5,Mumbai
+1032,Pizza Palace,Italian,2026-06-22,870,41,4.5,Mumbai
+1033,The Pasta Bowl,Italian,2026-07-01,673,50,4.3,Bangalore
+1034,Spice Hut,Indian,2026-06-30,691,34,4.4,Mumbai
+1035,Burger King,Fast Food,2026-06-27,458,21,4.0,Delhi
+1036,The Pasta Bowl,Italian,2026-06-23,792,36,4.4,Bangalore
+1037,Healthy Bites,Salads,2026-06-15,541,25,4.4,Delhi
+1038,Spice Hut,Indian,2026-06-17,439,34,4.4,Mumbai
+1039,Pizza Palace,Italian,2026-06-19,981,35,4.4,Mumbai
+1040,Healthy Bites,Salads,2026-06-18,320,36,4.7,Delhi
+1041,Pizza Palace,Italian,2026-07-01,860,42,4.1,Mumbai
+1042,Burger King,Fast Food,2026-06-29,297,25,3.9,Delhi
+1043,Spice Hut,Indian,2026-06-24,469,30,4.0,Mumbai
+1044,The Pasta Bowl,Italian,2026-06-28,538,38,4.7,Bangalore
+1045,Healthy Bites,Salads,2026-06-11,341,30,4.7,Delhi
+1046,Spice Hut,Indian,2026-06-14,673,36,4.3,Mumbai
+1047,Sushi House,Japanese,2026-06-29,800,53,4.6,Bangalore
+1048,The Pasta Bowl,Italian,2026-06-26,773,37,4.3,Bangalore
+1049,Sushi House,Japanese,2026-06-25,808,49,4.6,Bangalore
+1050,Pizza Palace,Italian,2026-06-26,641,46,4.4,Mumbai
+1051,Spice Hut,Indian,2026-06-17,535,41,4.3,Mumbai
+1052,Sushi House,Japanese,2026-06-29,1364,60,4.9,Bangalore
+1053,Sushi House,Japanese,2026-06-19,1025,59,4.7,Bangalore
+1054,Pizza Palace,Italian,2026-06-12,887,48,4.0,Mumbai
+1055,The Pasta Bowl,Italian,2026-06-13,574,41,4.1,Bangalore
+1056,The Pasta Bowl,Italian,2026-06-15,882,39,4.6,Bangalore
+1057,Pizza Palace,Italian,2026-06-15,883,39,4.6,Mumbai
+1058,Burger King,Fast Food,2026-06-15,340,24,4.0,Delhi
+1059,Spice Hut,Indian,2026-06-22,565,40,4.1,Mumbai
+1060,The Pasta Bowl,Italian,2026-06-15,520,35,4.0,Bangalore
+1061,Sushi House,Japanese,2026-06-17,905,55,5.0,Bangalore
+1062,Spice Hut,Indian,2026-06-25,541,34,4.4,Mumbai
+1063,Pizza Palace,Italian,2026-06-13,780,49,4.1,Mumbai
+1064,Pizza Palace,Italian,2026-06-28,871,40,4.5,Mumbai
+1065,Spice Hut,Indian,2026-06-24,464,39,4.3,Mumbai
+1066,The Pasta Bowl,Italian,2026-06-12,829,30,4.6,Bangalore
+1067,Burger King,Fast Food,2026-06-28,163,33,3.8,Delhi
+1068,Burger King,Fast Food,2026-06-28,228,30,3.7,Delhi
+1069,Pizza Palace,Italian,2026-06-21,695,48,4.1,Mumbai
+1070,Burger King,Fast Food,2026-06-23,391,32,3.9,Delhi
+1071,Healthy Bites,Salads,2026-06-15,460,35,4.5,Delhi
+1072,Sushi House,Japanese,2026-06-12,1436,57,4.5,Bangalore
+1073,Pizza Palace,Italian,2026-07-01,872,39,4.0,Mumbai
+1074,Sushi House,Japanese,2026-06-27,1389,42,4.5,Bangalore
+1075,Pizza Palace,Italian,2026-07-01,824,38,4.5,Mumbai
+1076,Healthy Bites,Salads,2026-06-23,254,34,4.1,Delhi
+1077,Burger King,Fast Food,2026-06-13,314,30,4.1,Delhi
+1078,Pizza Palace,Italian,2026-06-11,647,35,4.5,Mumbai
+1079,Spice Hut,Indian,2026-06-16,303,39,4.3,Mumbai
+1080,Healthy Bites,Salads,2026-06-22,294,25,4.4,Delhi
+1081,Sushi House,Japanese,2026-06-13,1140,60,4.6,Bangalore
+1082,Sushi House,Japanese,2026-06-30,1282,59,4.8,Bangalore
+1083,Spice Hut,Indian,2026-06-27,684,36,4.0,Mumbai
+1084,Pizza Palace,Italian,2026-06-20,638,38,4.1,Mumbai
+1085,Burger King,Fast Food,2026-06-29,361,22,4.1,Delhi
+1086,Burger King,Fast Food,2026-06-20,491,23,3.8,Delhi
+1087,Healthy Bites,Salads,2026-06-25,512,35,4.4,Delhi
+1088,Spice Hut,Indian,2026-06-22,400,32,4.2,Mumbai
+1089,Spice Hut,Indian,2026-06-15,640,38,4.2,Mumbai
+1090,Pizza Palace,Italian,2026-06-14,621,47,4.5,Mumbai
+1091,Pizza Palace,Italian,2026-07-01,990,43,4.1,Mumbai
+1092,Spice Hut,Indian,2026-06-28,450,44,4.1,Mumbai
+1093,Sushi House,Japanese,2026-06-29,1046,54,4.8,Bangalore
+1094,Spice Hut,Indian,2026-06-18,535,32,4.2,Mumbai
+1095,The Pasta Bowl,Italian,2026-06-14,789,42,4.6,Bangalore
+1096,Spice Hut,Indian,2026-06-27,621,34,4.3,Mumbai
+1097,Sushi House,Japanese,2026-06-15,1151,58,5.0,Bangalore
+1098,Pizza Palace,Italian,2026-06-20,715,37,4.6,Mumbai
+1099,Pizza Palace,Italian,2026-06-20,608,49,4.6,Mumbai
+1100,Burger King,Fast Food,2026-06-30,215,35,4.0,Delhi
+1101,Spice Hut,Indian,2026-06-11,340,32,4.0,Mumbai
+1102,The Pasta Bowl,Italian,2026-06-30,622,41,4.2,Bangalore
+1103,Burger King,Fast Food,2026-06-26,428,24,3.6,Delhi
+1104,Burger King,Fast Food,2026-06-12,254,26,4.1,Delhi
+1105,The Pasta Bowl,Italian,2026-06-12,605,45,4.7,Bangalore
+1106,Burger King,Fast Food,2026-06-29,304,21,4.2,Delhi
+1107,Spice Hut,Indian,2026-06-27,676,31,4.1,Mumbai
+1108,The Pasta Bowl,Italian,2026-06-16,579,40,4.1,Bangalore
+1109,Sushi House,Japanese,2026-06-18,824,60,4.5,Bangalore
+1110,Spice Hut,Indian,2026-06-16,799,32,4.3,Mumbai
+1111,Spice Hut,Indian,2026-06-23,754,42,4.1,Mumbai
+1112,Sushi House,Japanese,2026-06-19,1132,43,4.8,Bangalore
+1113,The Pasta Bowl,Italian,2026-06-14,619,50,4.0,Bangalore
+1114,Sushi House,Japanese,2026-06-21,1210,59,4.5,Bangalore
+1115,Pizza Palace,Italian,2026-06-28,827,43,4.0,Mumbai
+1116,Sushi House,Japanese,2026-06-20,1470,46,4.9,Bangalore
+1117,Spice Hut,Indian,2026-06-29,656,38,4.3,Mumbai
+1118,Burger King,Fast Food,2026-06-20,250,33,3.7,Delhi
+1119,The Pasta Bowl,Italian,2026-06-21,708,39,4.4,Bangalore
+1120,Pizza Palace,Italian,2026-06-17,740,43,4.5,Mumbai

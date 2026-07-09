@@ -1,0 +1,101 @@
+course_id,course_title,category,instructor,rating,difficulty_level,students_enrolled
+C016,Cloud Architecture Basics,Cloud Computing,Mike Ross,4.3,Beginner,1200
+C017,Cybersecurity Fundamentals,Cybersecurity,Emily Chen,4.6,Beginner,2200
+C018,Digital Marketing Strategy,Marketing,David Wu,4.2,Intermediate,1500
+C019,Project Management Essentials,Business,Linda Zhang,4.4,Beginner,2800
+C020,Python for Finance,Data Science,John Doe,4.7,Advanced,950
+C021,Advanced CSS Animations,Web Development,Alex Brown,4.5,Intermediate,1100
+C022,Vector Illustration Pro,Design,Sarah Connor,4.8,Advanced,700
+C023,AWS Certified Solutions,Cloud Computing,Mike Ross,4.9,Advanced,1800
+C024,Network Security Protocols,Cybersecurity,Emily Chen,4.5,Advanced,1300
+C025,Social Media Management,Marketing,David Wu,4.1,Beginner,2400
+C026,Leadership and Management,Business,Linda Zhang,4.6,Intermediate,1900
+C027,Data Wrangling with R,Data Science,Jane Smith,4.3,Intermediate,1200
+C028,Node.js Backend Development,Web Development,Alex Brown,4.7,Advanced,1600
+C029,Typography for Layout,Design,Sarah Connor,4.2,Beginner,900
+C030,Azure Cloud Services,Cloud Computing,Mike Ross,4.5,Intermediate,1400
+C031,Ethical Hacking 101,Cybersecurity,Emily Chen,4.8,Beginner,3200
+C032,SEO Keyword Research,Marketing,David Wu,4.4,Beginner,2100
+C033,Agile Project Management,Business,Linda Zhang,4.7,Advanced,2500
+C034,Statistical Analysis,Data Science,John Doe,4.6,Intermediate,1350
+C035,TypeScript Deep Dive,Web Development,Alex Brown,4.8,Advanced,1250
+C036,Logo Design Masterclass,Design,Sarah Connor,4.9,Advanced,850
+C037,Google Cloud Platform,Cloud Computing,Mike Ross,4.4,Intermediate,1100
+C038,Firewall Configuration,Cybersecurity,Emily Chen,4.2,Intermediate,950
+C039,Content Strategy,Marketing,David Wu,4.3,Intermediate,1450
+C040,Business Communication,Business,Linda Zhang,4.1,Beginner,2700
+C041,Natural Language Processing,Data Science,Jane Smith,4.9,Advanced,600
+C042,Vue.js Framework Basics,Web Development,Alex Brown,4.4,Beginner,1900
+C043,Color Theory for Designers,Design,Sarah Connor,4.5,Beginner,2200
+C044,Docker and Kubernetes,Cloud Computing,Mike Ross,4.7,Advanced,1050
+C045,Identity and Access Management,Cybersecurity,Emily Chen,4.6,Intermediate,1150
+C046,Email Marketing Tactics,Marketing,David Wu,4.2,Beginner,1800
+C047,Financial Accounting,Business,Linda Zhang,4.5,Intermediate,1600
+C048,Tableau for Data Science,Data Science,John Doe,4.6,Beginner,2000
+C049,Angular Web Framework,Web Development,Alex Brown,4.7,Advanced,1300
+C049,Prototyping with Figma,Design,Sarah Connor,4.8,Intermediate,1750
+C051,Serverless Computing,Cloud Computing,Mike Ross,4.5,Advanced,900
+C052,Cryptography Essentials,Cybersecurity,Emily Chen,4.7,Advanced,750
+C053,Copywriting for Conversion,Marketing,David Wu,4.4,Intermediate,2300
+C054,Supply Chain Management,Business,Linda Zhang,4.3,Intermediate,1200
+C055,Big Data with Spark,Data Science,Jane Smith,4.8,Advanced,800
+C056,GraphQL API Development,Web Development,Alex Brown,4.6,Advanced,1400
+C057,User Research Methodologies,Design,Sarah Connor,4.5,Intermediate,1600
+C058,Infrastructure as Code,Cloud Computing,Mike Ross,4.7,Advanced,950
+C059,Penetration Testing,Cybersecurity,Emily Chen,4.9,Advanced,600
+C060,Influencer Marketing,Marketing,David Wu,4.1,Beginner,2600
+C061,Operations Management,Business,Linda Zhang,4.4,Intermediate,1850
+C062,Time Series Forecasting,Data Science,John Doe,4.7,Advanced,1100
+C063,Svelte.js Essentials,Web Development,Alex Brown,4.3,Beginner,1500
+C064,Branding Identity Design,Design,Sarah Connor,4.6,Intermediate,1300
+C065,Terraform Automation,Cloud Computing,Mike Ross,4.8,Advanced,850
+C066,Cloud Security Posture,Cybersecurity,Emily Chen,4.5,Advanced,1000
+C067,Paid Search Advertising,Marketing,David Wu,4.4,Intermediate,1250
+C068,Organizational Behavior,Business,Linda Zhang,4.2,Beginner,2400
+C069,Data Mining Techniques,Data Science,Jane Smith,4.6,Intermediate,1700
+C070,Progressive Web Apps,Web Development,Alex Brown,4.7,Advanced,1150
+C071,Design Systems Workshop,Design,Sarah Connor,4.9,Advanced,700
+C072,Microservices Architecture,Cloud Computing,Mike Ross,4.7,Advanced,1200
+C073,Malware Analysis,Cybersecurity,Emily Chen,4.8,Advanced,800
+C074,Affiliate Marketing,Marketing,David Wu,4.3,Beginner,2000
+C075,Strategic Decision Making,Business,Linda Zhang,4.5,Advanced,1400
+C076,Bayesian Statistics,Data Science,John Doe,4.6,Intermediate,950
+C077,Web Accessibility (a11y),Web Development,Alex Brown,4.4,Beginner,2200
+C078,Motion Graphics Basics,Design,Sarah Connor,4.5,Intermediate,1500
+C079,CI/CD Pipeline Design,Cloud Computing,Mike Ross,4.8,Advanced,1050
+C080,Endpoint Security,Cybersecurity,Emily Chen,4.6,Intermediate,1100
+C081,Public Relations 101,Marketing,David Wu,4.2,Beginner,2700
+C082,Human Resource Management,Business,Linda Zhang,4.3,Intermediate,1600
+C083,SQL Server Administration,Data Science,Jane Smith,4.5,Intermediate,1350
+C084,Rust for Web Assembly,Web Development,Alex Brown,4.9,Advanced,700
+C085,Illustration Portfolio,Design,Sarah Connor,4.7,Advanced,900
+C086,Multi-Cloud Strategies,Cloud Computing,Mike Ross,4.6,Advanced,850
+C087,Incident Response Planning,Cybersecurity,Emily Chen,4.7,Advanced,950
+C088,E-commerce Marketing,Marketing,David Wu,4.4,Intermediate,1800
+C089,Entrepreneurship Basics,Business,Linda Zhang,4.6,Beginner,3000
+C090,Reinforcement Learning,Data Science,John Doe,4.9,Advanced,500
+C091,Three.js 3D Web,Web Development,Alex Brown,4.7,Advanced,1000
+C092,Interaction Design,Design,Sarah Connor,4.5,Intermediate,1400
+C093,Google Firebase Dev,Cloud Computing,Mike Ross,4.4,Intermediate,1600
+C094,Threat Hunting Basics,Cybersecurity,Emily Chen,4.6,Intermediate,1200
+C095,Marketing Automation,Marketing,David Wu,4.5,Advanced,1300
+C096,Venture Capital 101,Business,Linda Zhang,4.4,Beginner,1500
+C097,Computer Vision Labs,Data Science,Jane Smith,4.8,Advanced,750
+C098,Web Security Hardening,Web Development,Alex Brown,4.6,Intermediate,1700
+C099,Adobe After Effects,Design,Sarah Connor,4.7,Intermediate,1100
+C100,Site Reliability Engineering,Cloud Computing,Mike Ross,4.8,Advanced,950
+C101,Privacy Laws (GDPR),Cybersecurity,Emily Chen,4.5,Beginner,2500
+C102,Customer Journey Mapping,Marketing,David Wu,4.3,Intermediate,1400
+C103,Startup Funding Models,Business,Linda Zhang,4.6,Advanced,1200
+C104,Clustering Algorithms,Data Science,John Doe,4.7,Intermediate,1100
+C105,Web Components Mastery,Web Development,Alex Brown,4.8,Advanced,900
+C106,Wireframing and Mockups,Design,Sarah Connor,4.4,Beginner,2100
+C107,Cloud Cost Optimization,Cloud Computing,Mike Ross,4.5,Intermediate,1300
+C108,Vulnerability Assessment,Cybersecurity,Emily Chen,4.7,Advanced,800
+C109,Event Marketing,Marketing,David Wu,4.2,Beginner,1900
+C110,Negotiation Skills,Business,Linda Zhang,4.5,Intermediate,1600
+C111,Data Ethics and Policy,Data Science,Jane Smith,4.6,Beginner,2400
+C112,Next.js App Development,Web Development,Alex Brown,4.9,Advanced,1500
+C113,Print Design Principles,Design,Sarah Connor,4.3,Beginner,1700
+C114,Hybrid Cloud Solutions,Cloud Computing,Mike Ross,4.6,Advanced,1100
+C115,Security Auditing,Cybersecurity,Emily Chen,4.8,Advanced,700

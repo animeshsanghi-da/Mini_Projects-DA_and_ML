@@ -1,0 +1,4 @@
+Student_Name,MAC_Address,Timestamp,Status
+John Doe,AA:BB:CC:11:22:33,2026-06-26 08:00:00,Present
+Jane Smith,DD:EE:FF:44:55:66,2026-06-26 08:05:00,Present
+Mark Wilson,11:22:33:AA:BB:CC,2026-06-26 08:10:00,Absent
