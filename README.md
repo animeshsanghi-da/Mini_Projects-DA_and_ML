@@ -3,16 +3,41 @@
 Welcome to my comprehensive mini-project portfolio. This repository contains 34 distinct projects spanning data analytics, machine learning, software engineering, and AI tool development.
 
 ## 👨‍💻 About Me
-**Animesh Sanghi** | *Google Certified Data Analyst*  
-Email: *animeshsanghi.da@gmail.com*  
-LinkedIn: *[animeshsanghi-da](https://www.linkedin.com/in/animeshsanghi-da/)*  
-GitHub: *[animeshsanghi-da](https://github.com/animeshsanghi-da)*
+**Name:** Animesh Sanghi  
+**Profession:** Google Certified Data Analyst  
+**LinkedIn:** [linkedin.com/in/animeshsanghi-da](https://www.linkedin.com/in/animeshsanghi-da)  
+**GitHub:** [github.com/animeshsanghi-da](https://github.com/animeshsanghi-da)  
+**Email:** animeshsanghi.da@gmail.com
 
 ## 🛠️ Tech Stack & Tools
-- **Languages:** Python, SQL (MySQL)
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Streamlit, LangChain, OpenCV, Pyzbar, Bleak, FAISS, Pyttsx3, PySerial, Joblib
-- **BI Tools:** Power BI
-- **Environments:** VS Code, Jupyter Lab, Anaconda
+
+### 🌐 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 📚 Libraries
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pyzbar](https://img.shields.io/badge/Pyzbar-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bleak](https://img.shields.io/badge/Bleak-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=facebook&logoColor=white)
+![Pyttsx3](https://img.shields.io/badge/Pyttsx3-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PySerial](https://img.shields.io/badge/PySerial-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Joblib](https://img.shields.io/badge/Joblib-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 📊 BI Tools
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### 💻 Environments
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter Lab](https://img.shields.io/badge/Jupyter_Lab-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
 ## 📂 Repository Structure
 Below is a directory summarizing each project with direct links to their respective codebases.
